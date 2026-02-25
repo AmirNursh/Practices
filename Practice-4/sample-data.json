@@ -1,0 +1,12 @@
+{
+    "name": "Amir",
+    "age": 20,
+    "city": "Almaty",
+    "is_student": true,
+    "courses": ["Python", "Math", "Data Science"],
+    "grades": {
+        "Python": 95,
+        "Math": 88,
+        "Data Science": 91
+    }
+}
